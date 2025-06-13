@@ -14,7 +14,7 @@ public:
             for (int i = 1; i < nums.size(); i++) {
                 if (nums[i] - nums[i - 1] <= maxDiff) {
                     count++;
-                    i++; // Skip the next index as it's already paired
+                    i++; 
                 }
             }
             return count >= p;
@@ -23,9 +23,9 @@ public:
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canFormPairs(mid)) {
-                right = mid; // Try for a smaller maximum difference
+                right = mid; 
             } else {
-                left = mid + 1; // Increase the maximum difference
+                left = mid + 1; 
             }
         }
         
