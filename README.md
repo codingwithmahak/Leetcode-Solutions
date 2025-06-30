@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/codingwithmahak/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
